@@ -1,2 +1,2 @@
-# Formul-rio-Autentica-oPHP
+# Formulario-AutenticacaoPHP
 Formulário de autenticação de usários em PHP
